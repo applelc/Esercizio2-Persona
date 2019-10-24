@@ -47,6 +47,6 @@ public class Famiglia
     
     public String toString()
     {
-        return "Padre: " + padre.toString() + "\nMadre: " + madre.toString() + "\nProle: " + prole.toString() + "\nCognome: " + getCognome();
+        return "Padre: " + padre.chiSei() + "\nMadre: " + madre.chiSei() + "\nProle: " + prole.chiSei() + "\nCognome: " + getCognome();
     }
 }
