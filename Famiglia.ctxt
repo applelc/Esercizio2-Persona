@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Famiglia
+comment0.text=\r\n\ Famiglia\r\n\ \r\n\ @author\ (Leonardo\ Cannarella)\ \r\n\ @version\ (1.0\ -\ 24/10/2019)\r\n
+comment1.params=padre\ madre\ prole\ cognome
+comment1.target=Famiglia(Persona,\ Persona,\ Persona,\ java.lang.String)
+comment2.params=p
+comment2.target=void\ setPadre(Persona)
+comment3.params=p
+comment3.target=void\ setMadre(Persona)
+comment4.params=p
+comment4.target=void\ setProle(Persona)
+comment5.params=c
+comment5.target=void\ setCognome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCognome()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
